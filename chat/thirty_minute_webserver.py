@@ -17,7 +17,7 @@
 
 import os, socket, sys
 
-defaults = ['127.0.0.1', '8080']
+defaults = ['0.0.0.0', '8080']
 mime_types = {'.jpg' : 'image/jpg', 
              '.gif' : 'image/gif', 
              '.png' : 'image/png',

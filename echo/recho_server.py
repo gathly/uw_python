@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """
 recho server, usage:
 
